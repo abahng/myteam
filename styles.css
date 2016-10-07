@@ -1,0 +1,11 @@
+}
+.rating {
+  font-size: 0.4em;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 4px;
+  vertical-align: middle;
+}
+h1.title {
+  text-align: center;
+}
